@@ -10,9 +10,9 @@
 
 ##### BIO
 
-- ⚙️ I use daily: `.php`, `.tsx`, `.js`, `.css`, `.svg`, `.psd`, `.ai`, `.raw`, `.txt`
+- ⚙️ I use daily: `.ts`, `.tsx`, `.php`, `.js`, `.css`, `.svg`, `.*`, `.md`, `.sh`, 
 - 🌍 I'm mostly happy when working with **Laravel** or **Typescript**
-- 💅 Designed: BipEvents, Plink, Gotherapy, 
+- 💅 Designed and coded: BipEvents, Plink, Gotherapy, and some other fun stuff
 - 🌱 Learning with **Open Source**
 - 💬 Ping me about **design**, **development**, **low-code solutions**
 - 📫 Reach me: [karimhamrouni.com](https://karimhamrouni.com)
