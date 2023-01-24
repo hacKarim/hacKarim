@@ -3,7 +3,7 @@
 #### I'm a Full-Stack Developer living near Nice, France.
 
 ##### NOW
-
+- 🎩 Currently a Tech Lead with Code Cooperation
 - ✨ Just finished working with https://bip.events & https://cashless.tn
 - 😋 Freshly AI compatible;
 - 🍑 Growing shtuff
