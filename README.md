@@ -10,10 +10,10 @@
 
 ##### BIO
 
-- ⚙️ I use daily: `.ts`, `.tsx`, `.php`, `.js`, `.css`, `.svg`, `.*`, `.md`, `.sh`, 
-- 🌍 I'm mostly happy when working with **Laravel** or **Typescript**
+- ⚙️ I use daily: `.ts`, `.tsx`, `.php`, `.js`, `.css`, `.svg`, `.*`, `.md`, `.sh`
+- 🌍 I'm mostly happy when working with **NestJS**, **Next** or **Laravel**
 - 💅 Designed and coded: BipEvents, Plink, Gotherapy, and some other fun stuff
-- 🌱 Still learning with **WEB**, **AI**
+- 🌱 Still learning and teaching **WEB** and **AI**
 - 💬 Ping me about **design**, **development**, **low-code solutions**
 - 📫 Reach me: [karimhamrouni.com](https://karimhamrouni.com)
 - 📷 Through my eyes: [lens.karimhamrouni.com](https://lens.karimhamrouni.com)
