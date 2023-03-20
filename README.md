@@ -11,7 +11,7 @@
 ##### BIO
 
 - ⚙️ I use daily: `.ts`, `.tsx`, `.php`, `.js`, `.css`, `.svg`, `.*`, `.md`, `.sh`
-- 🌍 I'm mostly happy when working with **NestJS**, **Next** or **Laravel**
+- 🌍 I'm mostly happy when working with **NestJS/Blitz** with **Next** or **Laravel**
 - 💅 Designed and coded: BipEvents, Plink, Gotherapy, and some other fun stuff
 - 🌱 Still learning and teaching **WEB** and **AI**
 - 💬 Ping me about **design**, **development**, **low-code solutions**
